@@ -1,2 +1,2 @@
 # spotifyadhost
-simple list with spotify ads 
+Simple list with spotify ads 
