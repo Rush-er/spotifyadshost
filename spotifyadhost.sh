@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "#[spotify ads]
+echo -e "#spotify ads
 0.0.0.0	adclick.g.doublecklick.net
 0.0.0.0	adeventtracker.spotify.com
 0.0.0.0	ads-fa.spotify.com
