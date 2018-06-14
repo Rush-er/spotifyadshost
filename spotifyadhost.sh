@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo -e "
-
 #Start spotify ads
 0.0.0.0	adclick.g.doublecklick.net
 0.0.0.0	adeventtracker.spotify.com
