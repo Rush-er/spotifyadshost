@@ -1,6 +1,7 @@
 @echo off
 set hostspath=%windir%\System32\drivers\etc\hosts
-echo #[spotify ads] >> %hostspath%
+echo # >> %hostspath%
+echo #Start spotify ads >> %hostspath%
 echo 0.0.0.0	adclick.g.doublecklick.net >> %hostspath%
 echo 0.0.0.0	adeventtracker.spotify.com >> %hostspath%
 echo 0.0.0.0	ads-fa.spotify.com >> %hostspath%
@@ -39,5 +40,6 @@ echo 0.0.0.0	weblb-wg.gslb.spotify.com >> %hostspath%
 echo 0.0.0.0	www.googleadservices.com >> %hostspath%
 echo 0.0.0.0	www.googletagservices.com >> %hostspath%
 echo 0.0.0.0	www.omaze.com >> %hostspath%
+echo #Finish spotify ads >> %hostspath%
 echo ipconfig /flushdns
 exit
